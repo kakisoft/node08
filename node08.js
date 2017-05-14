@@ -1,4 +1,4 @@
-    const PORT = 1337
+const PORT = 1337
 
 var http = require('http');
 var fs = require('fs');
